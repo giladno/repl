@@ -1,0 +1,20 @@
+{
+  "name": "@giladno/repl",
+  "version": "1.0.0",
+  "description": "REPL interface for node apps",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/giladno/repl.git"
+  },
+  "keywords": [],
+  "author": "Gilad Novik <gilad@novik.ca>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/giladno/repl/issues"
+  },
+  "homepage": "https://github.com/giladno/repl#readme"
+}
