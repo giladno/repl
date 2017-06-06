@@ -1,10 +1,13 @@
 {
   "name": "@giladno/repl",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "REPL interface for node apps",
   "main": "index.js",
   "scripts": {
     "start": "node index.js"
+  },
+  "bin": {
+      "repl": "./index.js"
   },
   "repository": {
     "type": "git",

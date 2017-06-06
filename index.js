@@ -1,3 +1,4 @@
+#!/usr/bin/env node
 'use strict';
 const net = require('net');
 const repl = require('repl');
